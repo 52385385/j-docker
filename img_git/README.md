@@ -10,6 +10,6 @@ Generate key and copy pub key into folder keys, restart container to refresh.
 
 ## How to checkout
 ```shell
-git clone ssh://yourname@127.0.0.1:11122/git-server/repos/config.git
+git clone ssh://git@127.0.0.1:11122/git-server/repos/config.git
 ```
 
