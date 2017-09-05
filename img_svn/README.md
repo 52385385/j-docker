@@ -13,5 +13,5 @@ DAV_SVN_PASS = Nomes2016
 docker run -d --name svn -v /root/svn/config:/var/svn/config -p 10080:80 alpine:svn 
 
 ## Reference
-[alpine-svn](https://github.com/pikado/alpine-svn)
-[install apache and subversion on centos7](http://www.linuxtechi.com/install-apache-subversion-svn-centos-7)
+1. [alpine-svn](https://github.com/pikado/alpine-svn)
+2. [install apache and subversion on centos7](http://www.linuxtechi.com/install-apache-subversion-svn-centos-7)
